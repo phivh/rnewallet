@@ -21,6 +21,7 @@ module.exports = {
       "theme": path.resolve(__dirname, 'app/theme'),
       "translations": path.resolve(__dirname, 'app/translations'),
       "types": path.resolve(__dirname, 'app/types'),
+      "utils": path.resolve(__dirname, 'app/utils'),
       "mocks": path.resolve(__dirname, '__mocks__'),
     }
   },

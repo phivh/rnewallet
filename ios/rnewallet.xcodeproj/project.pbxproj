@@ -8,12 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* rnewalletTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* rnewalletTests.m */; };
+		01513FAEDB7E403097F163E4 /* SF-Pro-Text-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1232445D640404981CD2754 /* SF-Pro-Text-LightItalic.ttf */; };
+		0872C196D10C499E9A49ADDF /* SF-Pro-Text-HeavyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5415AD7F3A44242A80A2B9E /* SF-Pro-Text-HeavyItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1C411EB3133441759A37F564 /* SF-Pro-Text-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CE5E598E60C240C2A71020C6 /* SF-Pro-Text-Medium.ttf */; };
+		2E9C8333D7AA4675BC5C5D36 /* SF-Pro-Text-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF1D5216D38848199FDDA993 /* SF-Pro-Text-Semibold.ttf */; };
+		452D4180719943BFB8EA1A69 /* SF-Pro-Text-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3F87F32F09A4B61AFB074B6 /* SF-Pro-Text-Bold.ttf */; };
+		523FA10FC3CA48B6A7D870FF /* SF-Pro-Text-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1DCB31D9F40481B9208B78E /* SF-Pro-Text-MediumItalic.ttf */; };
+		5D7F3FF258B348DF95D94A3B /* SF-Pro-Text-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2869B157D5A24F7E952421CE /* SF-Pro-Text-SemiboldItalic.ttf */; };
 		6172F2D35A4C3AA820D92908 /* libPods-rnewallet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6423831EA8574132BED9D8CC /* libPods-rnewallet.a */; };
 		7EF68E3733C33B6898317E18 /* libPods-rnewallet-rnewalletTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ABFE59519B596E51CEFDCCC0 /* libPods-rnewallet-rnewalletTests.a */; };
+		80DAD1DEC6B7411C8AACC15E /* SF-Pro-Text-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EC17B3F15D24D9E9428A76B /* SF-Pro-Text-BoldItalic.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		900A71B72E1F42CBA76075DB /* SF-Pro-Text-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4CFD0D1FF7B44530AA4F1098 /* SF-Pro-Text-Heavy.ttf */; };
+		9743117373004D7AAA3F93BE /* SF-Pro-Text-RegularItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD9574FF1FF54E01B0CE8537 /* SF-Pro-Text-RegularItalic.ttf */; };
+		BF58911574F84C1EBD0A575A /* SF-Pro-Text-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE33F075F90143E9A229AD4F /* SF-Pro-Text-Regular.ttf */; };
+		D3DB4EB3346949E1A32D8B39 /* SF-Pro-Text-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 10957B36DBAF4E64B473F03F /* SF-Pro-Text-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +42,7 @@
 		00E356EE1AD99517003FC87E /* rnewalletTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rnewalletTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* rnewalletTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rnewalletTests.m; sourceTree = "<group>"; };
+		10957B36DBAF4E64B473F03F /* SF-Pro-Text-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Light.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Light.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* rnewallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rnewallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rnewallet/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = rnewallet/AppDelegate.m; sourceTree = "<group>"; };
@@ -37,13 +50,24 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rnewallet/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rnewallet/main.m; sourceTree = "<group>"; };
 		1D0AE47A65C8663E3B452821 /* Pods-rnewallet-rnewalletTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnewallet-rnewalletTests.release.xcconfig"; path = "Target Support Files/Pods-rnewallet-rnewalletTests/Pods-rnewallet-rnewalletTests.release.xcconfig"; sourceTree = "<group>"; };
+		2869B157D5A24F7E952421CE /* SF-Pro-Text-SemiboldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-SemiboldItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-SemiboldItalic.ttf"; sourceTree = "<group>"; };
+		4CFD0D1FF7B44530AA4F1098 /* SF-Pro-Text-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Heavy.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Heavy.ttf"; sourceTree = "<group>"; };
+		4EC17B3F15D24D9E9428A76B /* SF-Pro-Text-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-BoldItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-BoldItalic.ttf"; sourceTree = "<group>"; };
 		6423831EA8574132BED9D8CC /* libPods-rnewallet.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnewallet.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C97AB639B58BBB4B15BBE30 /* Pods-rnewallet-rnewalletTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnewallet-rnewalletTests.debug.xcconfig"; path = "Target Support Files/Pods-rnewallet-rnewalletTests/Pods-rnewallet-rnewalletTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = rnewallet/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A1DCB31D9F40481B9208B78E /* SF-Pro-Text-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-MediumItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-MediumItalic.ttf"; sourceTree = "<group>"; };
+		A3F87F32F09A4B61AFB074B6 /* SF-Pro-Text-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Bold.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Bold.ttf"; sourceTree = "<group>"; };
 		ABFE59519B596E51CEFDCCC0 /* libPods-rnewallet-rnewalletTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnewallet-rnewalletTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD9574FF1FF54E01B0CE8537 /* SF-Pro-Text-RegularItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-RegularItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-RegularItalic.ttf"; sourceTree = "<group>"; };
 		C0A881CF5CF3F2B244570E2A /* Pods-rnewallet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnewallet.debug.xcconfig"; path = "Target Support Files/Pods-rnewallet/Pods-rnewallet.debug.xcconfig"; sourceTree = "<group>"; };
+		C5415AD7F3A44242A80A2B9E /* SF-Pro-Text-HeavyItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-HeavyItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-HeavyItalic.ttf"; sourceTree = "<group>"; };
+		CE5E598E60C240C2A71020C6 /* SF-Pro-Text-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Medium.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Medium.ttf"; sourceTree = "<group>"; };
 		D00AAFFCFCFDA5787532823F /* Pods-rnewallet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnewallet.release.xcconfig"; path = "Target Support Files/Pods-rnewallet/Pods-rnewallet.release.xcconfig"; sourceTree = "<group>"; };
+		DE33F075F90143E9A229AD4F /* SF-Pro-Text-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Regular.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Regular.ttf"; sourceTree = "<group>"; };
+		E1232445D640404981CD2754 /* SF-Pro-Text-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-LightItalic.ttf"; path = "../app/assets/fonts/SF-Pro-Text-LightItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FF1D5216D38848199FDDA993 /* SF-Pro-Text-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Text-Semibold.ttf"; path = "../app/assets/fonts/SF-Pro-Text-Semibold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				E233CBF5F47BEE60B243DCF8 /* Pods */,
+				FE95F8A01CCC4F259091B5BF /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -146,6 +171,26 @@
 				1D0AE47A65C8663E3B452821 /* Pods-rnewallet-rnewalletTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		FE95F8A01CCC4F259091B5BF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A3F87F32F09A4B61AFB074B6 /* SF-Pro-Text-Bold.ttf */,
+				4EC17B3F15D24D9E9428A76B /* SF-Pro-Text-BoldItalic.ttf */,
+				4CFD0D1FF7B44530AA4F1098 /* SF-Pro-Text-Heavy.ttf */,
+				C5415AD7F3A44242A80A2B9E /* SF-Pro-Text-HeavyItalic.ttf */,
+				10957B36DBAF4E64B473F03F /* SF-Pro-Text-Light.ttf */,
+				E1232445D640404981CD2754 /* SF-Pro-Text-LightItalic.ttf */,
+				CE5E598E60C240C2A71020C6 /* SF-Pro-Text-Medium.ttf */,
+				A1DCB31D9F40481B9208B78E /* SF-Pro-Text-MediumItalic.ttf */,
+				DE33F075F90143E9A229AD4F /* SF-Pro-Text-Regular.ttf */,
+				BD9574FF1FF54E01B0CE8537 /* SF-Pro-Text-RegularItalic.ttf */,
+				FF1D5216D38848199FDDA993 /* SF-Pro-Text-Semibold.ttf */,
+				2869B157D5A24F7E952421CE /* SF-Pro-Text-SemiboldItalic.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,6 +289,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				452D4180719943BFB8EA1A69 /* SF-Pro-Text-Bold.ttf in Resources */,
+				80DAD1DEC6B7411C8AACC15E /* SF-Pro-Text-BoldItalic.ttf in Resources */,
+				900A71B72E1F42CBA76075DB /* SF-Pro-Text-Heavy.ttf in Resources */,
+				0872C196D10C499E9A49ADDF /* SF-Pro-Text-HeavyItalic.ttf in Resources */,
+				D3DB4EB3346949E1A32D8B39 /* SF-Pro-Text-Light.ttf in Resources */,
+				01513FAEDB7E403097F163E4 /* SF-Pro-Text-LightItalic.ttf in Resources */,
+				1C411EB3133441759A37F564 /* SF-Pro-Text-Medium.ttf in Resources */,
+				523FA10FC3CA48B6A7D870FF /* SF-Pro-Text-MediumItalic.ttf in Resources */,
+				BF58911574F84C1EBD0A575A /* SF-Pro-Text-Regular.ttf in Resources */,
+				9743117373004D7AAA3F93BE /* SF-Pro-Text-RegularItalic.ttf in Resources */,
+				2E9C8333D7AA4675BC5C5D36 /* SF-Pro-Text-Semibold.ttf in Resources */,
+				5D7F3FF258B348DF95D94A3B /* SF-Pro-Text-SemiboldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
